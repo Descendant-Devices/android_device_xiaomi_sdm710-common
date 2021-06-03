@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "lineage-18.1"
+  },
+  {
+    "repository": "SDM710-Development/android_kernel_xiaomi_sdm710",
+    "target_path": "kernel/xiaomi/sdm710",
+    "branch": "10.0-caf"
+  },
+  {
+    "repository": "SDM710-Development/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "lineage-18.1"
+  }
+]
